@@ -1,0 +1,14 @@
+{
+  "name": "001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "watch": "vite build --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
